@@ -49,3 +49,9 @@ Los precios, nombres, descripciones e imágenes se obtienen de respuestas reales
 - `src/components/PackageCard.tsx`: tarjeta reutilizable de paquete.
 - `src/components/StateMessage.tsx`: estados de carga, error y resultado vacío.
 - `src/App.tsx`: pantalla, búsquedas, selección y detalle.
+
+## Documentación complementaria
+
+- `FICHA_ANALISIS_SERVICIOS.md`: análisis y justificación de los tres endpoints seleccionados.
+- `GUIA_EXPLICACION.md`: resumen para explicar la aplicación y su demostración.
+- `EVIDENCIA_API.md`: registro de las consultas públicas verificadas.
